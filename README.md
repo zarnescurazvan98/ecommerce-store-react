@@ -1,5 +1,7 @@
 # ecommerce-store-react
 
-# install dependencies -> yarn install
+install dependencies:
+yarn install
 
-# start project -> yarn start
+start project:
+yarn start
